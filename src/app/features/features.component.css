@@ -1,0 +1,56 @@
+.features-section {
+  background: linear-gradient(90deg, #ff512f, #dd2476);
+  border-bottom-left-radius: 50%;
+  border-top-right-radius: 50%;
+  color: white;
+}
+
+.feature-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.feature-box {
+  display: flex;
+  color: white;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: start;
+  height: 100%;
+ 
+}
+
+.feature-box h5 {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.feature-box p {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  width: 80px;
+  height: 80px;
+  margin-right: 15px;
+  padding: 10px;
+ font-size: 30px;
+}
+
+.icon img {
+  width: 100%;
+  height: auto;
+}
+
+.icon-count {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #fff;
+}
+
